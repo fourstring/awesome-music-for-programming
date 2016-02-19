@@ -2,6 +2,7 @@
 # Table of Contents
 
 - [Netease cloud music playlists 网易云音乐歌单](#netease-cloud-music-playlists-网易云音乐歌单)
+- [Xiami music playlists 虾米音乐歌单](#xiami-music-playlists-虾米音乐歌单)
 - [Background music website](#background-music-website)
 - [Podcasting](#podcasting)
 - [Radio](#radio)
@@ -16,6 +17,9 @@
 - [魔兽世界 游戏原声 by 逆冷蝶](http://music.163.com/#/playlist?id=22868986)
 - [金玟岐作品集 by 金玟岐](http://music.163.com/#/album?id=2767540)
 - [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
+
+## Xiami music playlists 虾米音乐歌单
+
 ## Background music website
 
 - Asoftmurmur : http://asoftmurmur.com
@@ -34,6 +38,9 @@
 
 ## Podcasting
 
+- IPN 旗下播客，包括但不限于：
+	- [IT 公论](https://ipn.li/itgonglun/)
+	- [内核恐慌](https://ipn.li/kernelpanic/)
 - http://www.eslpod.com/website/index_new.html
 
 ## Radio
