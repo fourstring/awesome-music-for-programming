@@ -14,7 +14,8 @@
 - [循环·知名设计师的工作时光 by Teambition](http://music.163.com/#/playlist?id=22215137)
 - [史诗雄壮背景震撼码农 by 66beta](http://music.163.com/#/playlist?id=21031673)
 - [魔兽世界 游戏原声 by 逆冷蝶](http://music.163.com/#/playlist?id=22868986)
-
+- [金玟岐作品集 by 金玟岐](http://music.163.com/#/album?id=2767540)
+- [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
 ## Background music website
 
 - Asoftmurmur : http://asoftmurmur.com
