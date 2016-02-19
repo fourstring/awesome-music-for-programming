@@ -17,6 +17,8 @@
 - [魔兽世界 游戏原声 by 逆冷蝶](http://music.163.com/#/playlist?id=22868986)
 - [金玟岐作品集 by 金玟岐](http://music.163.com/#/album?id=2767540)
 - [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
+- [纯音集，书用 by 闻雨听风-](http://music.163.com/#/m/playlist?id=107312674)
+- [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
 
 ## Xiami music playlists 虾米音乐歌单
 
