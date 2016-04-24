@@ -19,6 +19,7 @@
 - [ONE PUNCH MAN by 夔豆](http://music.163.com/#/playlist?id=157621355)
 - [纯音集，书用 by 闻雨听风-](http://music.163.com/#/m/playlist?id=107312674)
 - [冷门而又好听的纯音乐 by 四维雨相丶](http://music.163.com/#/m/playlist?id=119093004)
+- [B站视频同步歌单（长期更新）by 寒兮亦若雨](http://music.163.com/#/m/playlist?id=142659541)
 
 ## Xiami music playlists 虾米音乐歌单
 
